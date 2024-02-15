@@ -1,3 +1,6 @@
+<h5>NAMA : SELIA NUR <br>
+    KELAS: XI RPL
+<h5>    
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -6,6 +9,9 @@
         <title>Object</title>
     </head>
     <body>
+    <!-- Tipe data object dibuat dengan tujuan agar para programmer terbiasa dengan OOP.
+    Tipe data object bisa berupa bilangan, variabel atau fungsi.
+    Data ini dapat dimasukkan ke dalam kode program sehingga meringkas beberapa fungsi dan memperkecil ukuran file. -->
         <?php
             class Car {
                 public $color;

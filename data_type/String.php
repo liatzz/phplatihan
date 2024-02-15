@@ -1,3 +1,6 @@
+<h5>NAMA : SELIA NUR <br>
+    KELAS: XI RPL
+<h5>    
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +9,8 @@
     <title>String</title>
 </head>
 <body>
+    <!-- String PHP adalah urutan karakter yaitu, digunakan untuk menyimpan dan memanipulasi teks.
+    PHP hanya mendukung set 256 karakter sehingga tidak menawarkan dukungan Unicode asli.  -->
     <?php
         $x = "Hello world!";
         $y = 'Hello world!';

@@ -1,4 +1,7 @@
-    <!DOCTYPE html>
+<h5>NAMA : SELIA NUR <br>
+    KELAS: XI RPL
+<h5>    
+   <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -6,9 +9,11 @@
         <title>Array</title>
     </head>
     <body>
+    <!-- Array adalah struktur data yang digunakan untuk menyimpan kumpulan nilai atau elemen. Dalam PHP, 
+    array memungkinkan kita untuk mengelompokkan data menjadi satu variabel, yang memudahkan pengelolaan dan manipulasi data. -->
         <?php
-            $cars = array("Volvo", "BMW", "Toyota");
-            echo "I like " . $cars[0] . ", " . $cars[1] . " and " . $cars[2] . ".";
+            $cars = array("SUPRA", "BMW", "KLX"); 
+            echo "Saya suka motor dan mobil " . $cars[0] . ", " . $cars[1] . " and " . $cars[2] . ".";
         ?>
     </body>
     </html>

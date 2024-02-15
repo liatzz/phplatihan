@@ -1,11 +1,16 @@
+<h5>NAMA : SELIA NUR <br>
+    KELAS: XI RPL
+<h5>    
     <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <title>Aritmatika</title>
     </head>
     <body>
+        <!-- Operator Aritmatika adalah operator matematis yang terdiri dari operator penambahan, pengurangan, perkalian, pembagian, modulus, plus, dan minus.
+    Jenis Operator Aritmatika dalam PHP Didalam PHP terdapat 7 jenis operator aritmatika -->
         <?php
             $a = 5;
             $b = 2;

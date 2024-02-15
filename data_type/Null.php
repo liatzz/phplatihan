@@ -1,3 +1,6 @@
+<h5>NAMA : SELIA NUR <br>
+    KELAS: XI RPL
+<h5>    
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +9,8 @@
     <title>Null</title>
 </head>
 <body>
+    <!-- Dalam sintak koding, “null” dapat digunakan untuk mengisi kolom atau variabel yang tidak memiliki nilai. 
+    Sebagai contoh, pada PHP, sintak koding untuk mengisi variabel dengan nilai “null” adalah sebagai berikut: $var = null; -->
     <?php
         $a = 0;
         echo "a is " . is_null($a) . "<br>";
